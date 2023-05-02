@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	margin-top: 60px;
+}
+button {
+	cursor: pointer;
+}
+#changeMe {
+	width: 400px;
+	height: 400px;
+	margin: 20px auto;
+	background: red;
+	outline-color: p;
+}
